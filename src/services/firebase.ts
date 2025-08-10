@@ -5,9 +5,9 @@ import { getStorage } from 'firebase/storage';
 
 // Firebase configuration
 const firebaseConfig = {
-  apiKey: "your-api-key-here",
-  authDomain: "your-project.firebaseapp.com",
-  projectId: "your-project-id",
+apiKey: "AIzaSyCkjAyHlbA4WiNNK-n7_2-zvLaGzjVKvDM",
+authDomain: "senoplan-13f4f.firebaseapp.com", 
+projectId: "senoplan-13f4f",
   storageBucket: "your-project.appspot.com",
   messagingSenderId: "123456789",
   appId: "your-app-id"
